@@ -24,6 +24,9 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 ## My Technology stack: ##
 ![React](icons/reactI.svg)
 ![Redux](icons/redux.svg)
+![TypeScript](icons/typescript.svg)
+![JavaScript](icons/javascript.svg)
+![JavaScript](icons/redux-saga.svg)
 
 📈 **My GitHub Stats:**
 
