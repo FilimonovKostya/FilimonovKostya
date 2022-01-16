@@ -4,7 +4,7 @@ I am a Front-end Developer.
 
 As a developer, I am enjoying what i am doing and trying to become more competent in the field.
 
-<img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="408" height="200px" />
+<img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif?raw=true" width="408px" height="318px" />
 
 **Talking about Personal Stuffs:**
 
