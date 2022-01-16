@@ -28,6 +28,7 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 ![TypeScript](icons/typescript.svg)
 ![JavaScript](icons/javascript.svg)
 ![MaterialUi](icons/materialui.svg)
+![Git](icons/git.svg)
 ![Html](icons/html.svg)
 ![Css](icons/css.svg)
 
