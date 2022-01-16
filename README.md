@@ -16,19 +16,19 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 
 
 
-###📱 MY CONTACTS
+### My contacts: ###
 [![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/filimonovkostya/)
 [![Telegram](icons/telegram.svg)](https://t.me/FilimonovKostya)
 [![Vk](icons/vk.svg)](https://vk.com/id97510491)
 
- ###💻 MY TECHNOLOGY STACK 
+## My Technology stack: ##
 ![React](icons/reactI.svg)
+![Redux](icons/redux.svg)
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact" /> 
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true" />
 </p>
-  
