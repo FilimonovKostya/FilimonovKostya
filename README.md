@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya)](https://github.com/FilimonovKostya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact)](https://github.com/FilimonovKostya/github-readme-stats)
