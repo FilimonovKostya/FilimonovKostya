@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya)](https://github.com/FilimonovKostya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact)](https://github.com/FilimonovKostya/github-readme-stats)
+![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true)
