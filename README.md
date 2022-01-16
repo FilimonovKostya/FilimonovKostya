@@ -6,13 +6,15 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 
 **Talking about Personal Stuffs:**
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning JavaScript and another tools for ecosystem of React <img width="25px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: konstantinfilimonou@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1fEeDIY3zp4dhDkIaTcX9HFpVoEkkPqh7/view?usp=sharing).
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ## MY CONTACTS
