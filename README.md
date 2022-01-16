@@ -25,6 +25,6 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact" />
-  [![Top Langs]()](https://github.com/FilimonovKostya/github-readme-stats)
-  </p
-![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true" />
+  </p>
+  
