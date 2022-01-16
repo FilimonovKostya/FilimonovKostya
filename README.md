@@ -12,6 +12,9 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 - 📫 How to reach me: konstantinfilimonou@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1fEeDIY3zp4dhDkIaTcX9HFpVoEkkPqh7/view?usp=sharing).
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+
 ## MY CONTACTS
 [<img width="55" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png">](https://www.linkedin.com/in/filimonovkostya/)
 [<img width="55" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png">](https://t.me/FilimonovKostya)
