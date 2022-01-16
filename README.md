@@ -9,20 +9,20 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning JavaScript and another tools for ecosystem of React <img width="25px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>;
+- 🚀 I’m also learning JavaScript and another tools for ecosystem of React ![React](icons/react-js.svg)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: konstantinfilimonou@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1fEeDIY3zp4dhDkIaTcX9HFpVoEkkPqh7/view?usp=sharing).
 
 
 
-### MY CONTACTS
-[<img width="55" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png">](https://www.linkedin.com/in/filimonovkostya/)
-[<img width="55" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png">](https://t.me/FilimonovKostya)
-[<img width="55" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png">](https://vk.com/id97510491)
+###📱 MY CONTACTS
+[![LinkedIn](icons/linkedin.svg)](https://www.linkedin.com/in/filimonovkostya/)
+[![Telegram](icons/telegram.svg)](https://t.me/FilimonovKostya)
+[![Vk](icons/vk.svg)](https://vk.com/id97510491)
 
-### MY SKILLS
-
+ ###💻 MY TECHNOLOGY STACK 
+![React](icons/reactI.svg)
 
 📈 **My GitHub Stats:**
 
