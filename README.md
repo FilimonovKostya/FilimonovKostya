@@ -13,8 +13,9 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 - 📝 [Resume](https://drive.google.com/file/d/1fEeDIY3zp4dhDkIaTcX9HFpVoEkkPqh7/view?usp=sharing).
 
 ## MY CONTACTS
-[<img width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png">](https://www.linkedin.com/in/alice-haidukievich-a88834192/)
-
+[<img width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png">](https://www.linkedin.com/in/filimonovkostya/)
+[<img width="45" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png">](https://t.me/FilimonovKostya)
+[<img width="45" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png">](https://vk.com/id97510491)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact)](https://github.com/FilimonovKostya/github-readme-stats)
 ![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true)
