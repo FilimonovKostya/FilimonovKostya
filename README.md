@@ -4,10 +4,9 @@ I am a Front-end Developer.
 
 As a developer, I am enjoying what i am doing and trying to become more competent in the field.
 
-**Talking about Personal Stuffs:**
-
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
+**Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning JavaScript and another tools for ecosystem of React <img width="25px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>;
