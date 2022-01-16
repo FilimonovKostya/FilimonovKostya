@@ -21,6 +21,9 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 [<img width="55" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png">](https://t.me/FilimonovKostya)
 [<img width="55" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png">](https://vk.com/id97510491)
 
+### MY SKILLS
+
+
 📈 **My GitHub Stats:**
 
 <p>
