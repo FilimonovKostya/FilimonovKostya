@@ -12,5 +12,9 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 - 📫 How to reach me: konstantinfilimonou@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1fEeDIY3zp4dhDkIaTcX9HFpVoEkkPqh7/view?usp=sharing).
 
+## MY CONTACTS
+[<img width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png">](https://www.linkedin.com/in/alice-haidukievich-a88834192/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact)](https://github.com/FilimonovKostya/github-readme-stats)
 ![Kostya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true)
