@@ -24,7 +24,8 @@ As a developer, I am enjoying what i am doing and trying to become more competen
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovKostya&layout=compact" /> 
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilimonovKostya&theme=react&show_icons=true" />
   </p>
   
